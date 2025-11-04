@@ -9,7 +9,7 @@ ii. Display a confirmation message once the title is successfully stored.
 
 */
 
-//Preprop
+
 #include <stdio.h>
 int main(){
     //Declaration of the pointer containing the file name, location
@@ -68,4 +68,5 @@ int main(){
     fclose(location);
 
     return 0;
+
 }
